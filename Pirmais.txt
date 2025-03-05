@@ -3,3 +3,6 @@
 # Otrā rindiņa uz sānu zara (sākumā)
 
 # Trešā rindiņa pull request vajadzībām
+
+# Īstais pull request
+
